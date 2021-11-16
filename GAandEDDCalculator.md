@@ -8,5 +8,5 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Yours sincerely,
 Parikalan Apps
-Muzaffaerpur, India.
+Muzaffarpur, India.
 parikalan.apps@gmail.com
